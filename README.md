@@ -3,7 +3,7 @@
 <br />
 <p align="center">  
     <img 
-      src="https://onedrive.live.com/?authkey=%21AIYGVFmc1CiT2S4&cid=F0A675913C3F1835&id=F0A675913C3F1835%21360091&parId=F0A675913C3F1835%21327292&o=OneUp" alt="Logo"
+      src="https://github.com/jb2nascimento/estagiando-app/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Logo"
       width="64" height="64">
     <h3 align="center">Estagiando APP</h3>
 </p>
